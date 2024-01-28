@@ -1,24 +1,3 @@
-body{
-    background-color: black;
-    text-align: center;
-    color: cadetblue;
-    padding-top: 4%;
-
-}
-
-.btentrar{
-    text-align: center;
-    padding-top: 10px;
-    padding-left: 5%;
-
-}
-
-.titulo{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    color: cadetblue;
-}
-
 .rodape{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:cadetblue;
@@ -26,11 +5,4 @@ body{
     text-align:inherit;
     text-emphasis-position: botom;
 
-}
-
-.voltar{
-    text-align: left;
- 
-  
-    
 }
